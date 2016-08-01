@@ -1,2 +1,4 @@
-#Bash Shell Script for Turbomole 7.0
+#Turbomole Script
 
+Bash Shell Script
+for Turbomole 7.0
